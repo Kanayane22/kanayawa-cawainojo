@@ -1,0 +1,116 @@
+@charset "utf-8";
+#header {
+    width: 800px;
+    height: 130px;
+    background-image: url(%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/header_bg.jpg);
+}
+#content {
+    width: 800px;
+    background-image: url(%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/content_bg.jpg);
+    float: none;
+    margin-left: 0px;
+    margin-bottom: 52px;
+}
+
+
+
+#footer {
+    width: 800px;
+    background-image: url(%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/footer_bg.jpg);
+    height: 50px;
+}
+body {
+    padding-top: 28px;
+    color: #767676;
+    font-size: 15px;
+    background-image: url(%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/cute_design_bg.png);
+    background-repeat: repeat-x;
+}
+#contentL {
+    width: 245px;
+    float: left;
+}
+#contentR {
+    margin-left: 245px;
+}
+a {
+    color: #D19CF0;
+    text-decoration: none;
+}
+
+#sidemenu {
+    width: 180px;
+    height: 302px;
+    margin-left: 40px;
+    background-image: url(%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/menu_bg.jpg);
+    padding-left: 13px;
+}
+.headerlogo {
+    margin-top: 20px;
+    margin-left: 48px;
+    float: left;
+}
+.headercopy {
+    margin-top: 100px;
+    margin-left: 25px;
+    float: left;
+    font-style: italic;
+    font-size: 12px;
+}
+
+
+#listNew {
+    margin-left: 50px;
+    margin-right: 30px;
+    font-size: 13px;
+    line-height: 1.5em;
+}
+.newnew {
+    color: #FEB3F3;
+}
+#contentL #listNew p {
+    border-style: dotted;
+    border-width: 1px;
+    padding-top: 10px;
+}
+
+
+.email {
+    margin-top: 65px;
+    margin-left: 100px;
+    float: left;
+}
+
+
+#cm {
+    font-size: 13px;
+    margin-top: 55px;
+    margin-right: 55px;
+    margin-left: 13px;
+}
+.subtittle {
+    color: #A650ED;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+#cm {
+}
+#cm {
+}
+#cm {
+}
+#cm {
+}
+a:hover {
+    color: #F8C76C;
+}
+.transition {
+    -webkit-transition: all 1s ease 0s;
+    -o-transition: all 1s ease 0s;
+    transition: all 1s ease 0s;
+}
+.transition:hover {
+    -webkit-opacity: 0.4;
+    opacity: 0.4;
+}
